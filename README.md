@@ -20,6 +20,7 @@
 ## Key Features of this Project 
 
 * 📌 The Users Can SignUp and Login .
+* * 📌 The Users acn also follow or unfollow anyone .
 * 📌 The App enables a user to post about anything without being censored .
 * 📌 The User  can engage on the opinions of other users by liking , disliking , and commenting on the post .
 
