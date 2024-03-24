@@ -49,20 +49,21 @@
 
 #Application Screen Shots
 
+
 ## Register Screen 
-![register](https://user-images.githubusercontent.com/86009168/230831366-1e97dab7-528a-4cbd-8dd2-25f264531c01.png)
+![Register Page](https://github.com/gospeller986/Threads-App/assets/86009168/20e2e6f9-3ada-40a7-9324-5ed00e8f1a37)
 ## Login Screen 
-![login](https://user-images.githubusercontent.com/86009168/230831545-3f646c7f-d096-4581-90d7-b02ae88b7dc2.png)
-
+![Login](https://github.com/gospeller986/Threads-App/assets/86009168/d62aa5f8-c660-436f-b8dd-23f4c784d97c)
 ## Home Screen 
-![home1](https://user-images.githubusercontent.com/86009168/230831661-df12a24e-460f-4f5f-857d-4976e719f9ee.png)
-![home2](https://user-images.githubusercontent.com/86009168/230831679-0195aa7b-3a8c-480b-8f6f-21048d797d9c.png)
+![Home](https://github.com/gospeller986/Threads-App/assets/86009168/ae16ea5d-5236-4b1a-bdad-03f9fc590ac9)
+## Like Post 
+![Like](https://github.com/gospeller986/Threads-App/assets/86009168/b9eba6cf-bfb8-4ff6-88ca-898b769632bb)
+## Create Post Screen 
+![Create](https://github.com/gospeller986/Threads-App/assets/86009168/fb403b9b-fbf7-4ab7-bf30-2d7b7991cb90)
+## Activity Screen 
+![Activity Page ](https://github.com/gospeller986/Threads-App/assets/86009168/aa26a6c6-85b6-41d6-8369-2a6d25260e3a)
+## Profile Screen 
+![Profile Page](https://github.com/gospeller986/Threads-App/assets/86009168/6f4d46bb-1f3e-468a-acb5-94aba910e6e8)
 
-## PickUp Details Screen 
-![details](https://user-images.githubusercontent.com/86009168/230831624-1ea4f8c7-12af-4031-b7bf-2944f37e8739.png)
 
-## Cart Screen 
-![cart](https://user-images.githubusercontent.com/86009168/230831597-d0e58b08-dba2-455e-960a-6414b77cb650.png)
 
-## Order Placed Screen 
-![orderplaced](https://user-images.githubusercontent.com/86009168/230831701-c97ecb86-5663-4859-b8e9-bfa628ff00f4.png)
